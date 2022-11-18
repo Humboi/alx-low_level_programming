@@ -1,6 +1,6 @@
+#include "variadic_functions.h"
 #include <stdio.h>
 #include <stdarg.h>
-#include "main.h"
 
 /**
  * printf_char - printfs a char from var args
